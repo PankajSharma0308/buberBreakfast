@@ -1,0 +1,12 @@
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\bin\Debug\net7.0\buberBreakfast.Contracts.deps.json
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\bin\Debug\net7.0\buberBreakfast.Contracts.dll
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\bin\Debug\net7.0\buberBreakfast.Contracts.pdb
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.csproj.AssemblyReference.cache
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.AssemblyInfoInputs.cache
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.AssemblyInfo.cs
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.dll
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\refint\buberBreakfast.Contracts.dll
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\buberBreakfast.Contracts.pdb
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast.Contracts\obj\Debug\net7.0\ref\buberBreakfast.Contracts.dll
