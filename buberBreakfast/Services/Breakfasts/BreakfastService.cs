@@ -14,4 +14,9 @@ public class BreakfastServices : IBreakfastServices
     {
         return _breakfasts[id];
     }
+
+    public void upsertBreakfast(Breakfast breakfast)
+    {
+        _breakfasts[breakfast.Id] = breakfast;
+    }
 }
