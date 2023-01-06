@@ -27,3 +27,4 @@ D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberbreakFast\obj\Debug\net
 D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberbreakFast\obj\Debug\net7.0\buberBreakfast.pdb
 D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberbreakFast\obj\Debug\net7.0\buberBreakfast.genruntimeconfig.cache
 D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberbreakFast\obj\Debug\net7.0\ref\buberBreakfast.dll
+D:\IHX_train\asp.net\yt_tutorial_asp\buberBreakfast\buberBreakfast\bin\Debug\net7.0\ErrorOr.dll

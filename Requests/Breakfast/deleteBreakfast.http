@@ -1,2 +1,2 @@
-@id=0000
+@id=05e720f0-5fb3-454f-9cac-1d714009072d
 DELETE http://localhost:5051/breakfast/{{id}}
